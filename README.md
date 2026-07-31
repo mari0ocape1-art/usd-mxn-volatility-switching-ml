@@ -1,2 +1,2 @@
 # usd-mxn-volatility-switching-ml
-About macroeconomics dynamics on Market
+Hi every one, currently I'm working on this project but you can see some notebooks alright. tk
